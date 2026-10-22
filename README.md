@@ -2,6 +2,8 @@
 
 An Arabic-first, bilingual website for a nonprofit supporting education, health, personal development and skills. Built with **Next.js, TypeScript, ASP.NET Core and PostgreSQL**, with responsive public pages, member accounts and a dedicated administration workspace.
 
+![Arabic homepage on desktop and mobile](docs/images/homepage-showcase.png)
+
 **Status: pre-launch development.** This repository is a sanitized source snapshot. It contains no production database, member records, local credentials, email previews or original beneficiary photographs. The foundation's operational site has not been publicly deployed through this repository.
 
 ## Features
